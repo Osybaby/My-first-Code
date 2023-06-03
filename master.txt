@@ -1,0 +1,26 @@
+This is my first code sample in Git
+
+o.Onyeoziri@PHARM-OSINACHI0 MINGW64 ~
+$ mkdir DataScienceClass\
+>
+
+o.Onyeoziri@PHARM-OSINACHI0 MINGW64 ~
+$ cd DataScienceClass\
+>
+
+o.Onyeoziri@PHARM-OSINACHI0 MINGW64 ~/DataScienceClass
+$ mkdir MyFirstCode
+
+o.Onyeoziri@PHARM-OSINACHI0 MINGW64 ~/DataScienceClass
+$ git init
+Initialized empty Git repository in C:/Users/O.ONYEOZIRI/DataScienceClass/.git/
+
+o.Onyeoziri@PHARM-OSINACHI0 MINGW64 ~/DataScienceClass (master)
+$
+
+o.Onyeoziri@PHARM-OSINACHI0 MINGW64 ~/DataScienceClass (master)
+$  touch master.txt
+
+o.Onyeoziri@PHARM-OSINACHI0 MINGW64 ~/DataScienceClass (master)
+$ notepad master.txt
+
